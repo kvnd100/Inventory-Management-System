@@ -1,0 +1,25 @@
+* {
+    font-family: 'Comfortaa', cursive;
+}
+
+.small-text {
+    font-size: 12px;
+    font-weight: 1000;
+}
+
+.user-role {
+    color: #6c757d;
+}
+
+.refreshButton {
+    color: #198754;
+    text-decoration: none;
+}
+
+.refreshButton:hover {
+    color: white;
+}
+
+.tableData {
+    font-size: 12px;
+}
